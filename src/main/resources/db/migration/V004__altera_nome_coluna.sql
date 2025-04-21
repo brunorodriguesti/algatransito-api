@@ -1,0 +1,1 @@
+ALTER TABLE veiculo RENAME COLUMN data_apreencao TO data_apreensao;

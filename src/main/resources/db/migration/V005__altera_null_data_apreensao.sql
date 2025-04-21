@@ -1,0 +1,1 @@
+ALTER TABLE veiculo MODIFY data_apreensao datetime null;

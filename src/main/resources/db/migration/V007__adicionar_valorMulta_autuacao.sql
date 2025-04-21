@@ -1,0 +1,1 @@
+alter table autuacao add valor_multa decimal(10,2) not null;
